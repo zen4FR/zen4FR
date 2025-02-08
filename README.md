@@ -1,7 +1,8 @@
 [![MasterHead](https://limewire.com/d/061ff028-7102-4a91-8bb5-93c7cc89678f#qphClZn-xWEOpSGNIx_vPLeH9iXI02udrLjGG3yG3IE)]
 <h1 align="center">Hi 👋, I'm Atul Humagain</h1>
 <h3 align="center">Tech Enthusiast and Currently Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/ee25e33d-bf6a-44b5-a066-b007b22cd998)
+">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zen4fr" alt="zen4fr" /></a> </p>
 
