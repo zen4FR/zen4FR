@@ -1,4 +1,4 @@
-[![MasterHead](https://limewire.com/d/061ff028-7102-4a91-8bb5-93c7cc89678f#qphClZn-xWEOpSGNIx_vPLeH9iXI02udrLjGG3yG3IE)](https://rishavchanda.io)
+[![MasterHead](https://limewire.com/d/061ff028-7102-4a91-8bb5-93c7cc89678f#qphClZn-xWEOpSGNIx_vPLeH9iXI02udrLjGG3yG3IE)]
 <h1 align="center">Hi 👋, I'm Atul Humagain</h1>
 <h3 align="center">Tech Enthusiast and Currently Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
