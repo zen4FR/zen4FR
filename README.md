@@ -70,7 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zen4FR/zen4FR/output/snake.svg"  />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zen4FR/zen4FR/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zen4FR/zen4FR/output/github-snake.svg" />
